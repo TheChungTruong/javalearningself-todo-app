@@ -1,2 +1,1 @@
-# javalearningself-todo-app
-java-pratice-finally-lession
+TODO-APP-2.0-SNAPSHOT
